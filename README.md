@@ -3,7 +3,7 @@ Repositório das aulas do curso de introdução a C++ do SENAI
 
   -  **Data de início:** 07/02/26;
   -  **Unidade:** Escola SENAI "Roberto Simonsen";
-  -  **Professor:** Daniel
+  -  **Professor:** Daniel Correa Sampaio Dos Santos
 
 ## Conteúdo do repositório: 
   - AULA 01 -- Introdução (07/02/26);
