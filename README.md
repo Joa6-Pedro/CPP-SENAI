@@ -9,11 +9,18 @@ Repositório das aulas do curso de introdução a C++ do SENAI
   - AULA 01 -- Introdução (07/02/26);
     - Arquivo PDF da aula;
     - Piloto - Hello World;
+    
   - AULA 02 -- Input e Output (21/02/26);
     - Arquivo PDF da Lista de exercícios 01;
     - Arquivo PDF com resposta dos ex 1 a 4;
     - Exercícios 5 a 12;
+    
   - AULA 03 -- Estruturas Condicionais (28/02/26);
     - Arquivo PDF da aula;
     - Arquivo PDF da Lista de exercícios 02;
-    - Pasta com exercícios 01 a 08;
+    - Pasta com exercícios 01 a 08.
+    
+  - AULA 04 -- Estruturas de Repetição (07/03/26);
+    - Arquivo PDF da aula;
+    - Arquivo PDF da Lista de exercícios 03;
+    - Pasta com exercícios 01 a 05.
