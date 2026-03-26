@@ -24,3 +24,8 @@ Repositório das aulas do curso de introdução a C++ do SENAI
     - Arquivo PDF da aula;
     - Arquivo PDF da Lista de exercícios 03;
     - Pasta com exercícios 01 a 05.
+      
+  - AULA 06 -- Containers (21/03/26);
+    - Arquivo PDF da aula;
+    - Arquivo PDF da Lista de Exercícios 04;
+    - Pasta com exercícios 01 a 08.
