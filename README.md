@@ -20,7 +20,7 @@ Repositório das aulas do curso de introdução a C++ do SENAI
     - Arquivo PDF da Lista de exercícios 02;
     - Pasta com exercícios 01 a 08.
       
-  - AULA 04/05 -- Estruturas de Repetição (07/03/26 - 14/03/26);
+  - AULA 04/05 -- Estruturas de Repetição (07-14/03/26);
     - Arquivo PDF da aula;
     - Arquivo PDF da Lista de exercícios 03;
     - Pasta com exercícios 01 a 05.
